@@ -7,3 +7,5 @@ Logo-Oasis
 #Modificadogit
 
 #Editando o arquivo novamente
+
+#comando git fat
